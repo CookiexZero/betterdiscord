@@ -1,0 +1,38 @@
+/**
+ * @name Kurumi
+ * @author Cookeix0000 from Solta
+ * @version 1.0.1
+ * @description Kurumi from "Date a Live"
+ * @source https://github.com/So1ta/USP-ThemeDiscord
+*/
+/* 
+ Изображение переведено в 4К формат 
+ Чтобы редактировать тему, раскомментируйте код ниже 
+*/
+
+@import url("/cookiex0000.themebase.css");
+
+
+:root {
+  --background: url("https://kartinki.pics/uploads/posts/2021-09/1632248202_47-kartinkin-net-p-kurumi-tokisaki-art-krasivo-57.jpg");
+  --font:                       "Inter";
+  --transparencyalpha:          0.5;
+  --transparencycolor:          0,0,0;
+  --messagetransparency:        0;
+  --guildchanneltransparency:   0;
+  --chatinputtransparency:      0;
+  --memberlisttransparency:     0;
+  --accentcolor:                144,0,32,0.6;
+}
+
+.theme-dark {
+  --text-normal:                #ffffff;
+  --text-muted:                 #ffffff;
+  --header-primary:             #ff4f75;
+  --channels-default:           #ff90a2;
+  --header-secondary:           #ff90a2;
+  --interactive-normal:         #ff90a2;
+  --interactive-hover:          #ffffff;
+  --interactive-active:         #ffffff;
+  --background-modifier-accent: #fff2;
+}
